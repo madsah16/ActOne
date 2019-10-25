@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="ActOne.runtime.predefined.ANY">
+    <classNode dependClassName="ActOne.runtime.model.ITerm" />
+    <classNode dependClassName="ActOne.runtime.model.Operator" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="ActOne.runtime.predefined.BOOLEAN">
+    <classNode dependClassName="ActOne.runtime.model.ITerm" />
+    <classNode dependClassName="ActOne.runtime.model.Operator" />
+    <classNode dependClassName="ActOne.runtime.predefined.INTEGER" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+  </dependency>
+  <dependency className="ActOne.runtime.predefined.INTEGER">
+    <classNode dependClassName="ActOne.runtime.model.ITerm" />
+    <classNode dependClassName="ActOne.runtime.model.Operator" />
+    <classNode dependClassName="ActOne.runtime.predefined.BOOLEAN" />
+    <classNode dependClassName="ActOne.runtime.predefined.STRING" />
+    <classNode dependClassName="java.lang.Math" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+  </dependency>
+  <dependency className="ActOne.runtime.predefined.STRING">
+    <classNode dependClassName="ActOne.runtime.model.ITerm" />
+    <classNode dependClassName="ActOne.runtime.model.Operator" />
+    <classNode dependClassName="ActOne.runtime.predefined.INTEGER" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+  </dependency>
+</dependenciesRoot>
+

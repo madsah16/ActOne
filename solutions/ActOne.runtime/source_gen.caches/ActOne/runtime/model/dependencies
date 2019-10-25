@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="ActOne.runtime.model.Axiom">
+    <classNode dependClassName="ActOne.runtime.model.ITerm" />
+    <classNode dependClassName="java.lang.IllegalStateException" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.ArrayList" />
+    <classNode dependClassName="java.util.HashMap" />
+    <classNode dependClassName="java.util.LinkedList" />
+  </dependency>
+  <dependency className="ActOne.runtime.model.ITerm">
+    <classNode dependClassName="ActOne.runtime.model.Axiom" />
+    <classNode dependClassName="ActOne.runtime.model.Operator" />
+    <classNode dependClassName="java.lang.AssertionError" />
+    <classNode dependClassName="java.lang.CloneNotSupportedException" />
+    <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.IllegalStateException" />
+    <classNode dependClassName="java.lang.Object" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="java.util.ArrayList" />
+    <classNode dependClassName="java.util.Collections" />
+    <classNode dependClassName="java.util.HashMap" />
+    <classNode dependClassName="java.util.Objects" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+  </dependency>
+  <dependency className="ActOne.runtime.model.Operator">
+    <classNode dependClassName="java.lang.Boolean" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="ActOne.runtime.model.Reductions">
+    <classNode dependClassName="ActOne.runtime.model.ITerm" />
+    <classNode dependClassName="java.lang.IllegalStateException" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="java.util.ArrayList" />
+    <classNode dependClassName="java.util.HashMap" />
+    <classNode dependClassName="java.util.LinkedList" />
+    <classNode dependClassName="java.util.Map" />
+    <classNode dependClassName="java.util.Queue" />
+  </dependency>
+</dependenciesRoot>
+

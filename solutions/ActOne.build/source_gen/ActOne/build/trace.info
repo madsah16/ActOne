@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:c01d7b02-1c59-44ec-8205-d83e1d23b568(ActOne.build)/3168691998672625977">
+    <file name="ActOne.xml">
+      <unit id="3168691998672625977" at="1,0,598,10" name="ActOne.build.ActOne" />
+    </file>
+  </root>
+  <root nodeRef="r:c01d7b02-1c59-44ec-8205-d83e1d23b568(ActOne.build)/3168691998672626124">
+    <file name="ActOneDistribution.xml">
+      <unit id="3168691998672626124" at="1,0,146,10" name="ActOne.build.ActOneDistribution" />
+    </file>
+  </root>
+  <root nodeRef="r:c01d7b02-1c59-44ec-8205-d83e1d23b568(ActOne.build)/3168691998672626374">
+    <file name="Info.plist.xml">
+      <unit id="3168691998672626374" at="1,0,121,8" name="ActOne.build.Info$plist" />
+    </file>
+  </root>
+</debug-info>
+

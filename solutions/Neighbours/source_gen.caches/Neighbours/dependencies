@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="Neighbours.NEIGHBOUR">
+    <classNode dependClassName="actone.base.ITerm" />
+    <classNode dependClassName="actone.base.Operator" />
+    <classNode dependClassName="actone.base.Reductions" />
+    <classNode dependClassName="actone.predefined.BOOLEAN" />
+    <classNode dependClassName="actone.predefined.BOOLEAN.Bool" />
+    <classNode dependClassName="actone.predefined.INTEGER" />
+    <classNode dependClassName="actone.predefined.STRING" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+  </dependency>
+</dependenciesRoot>
+

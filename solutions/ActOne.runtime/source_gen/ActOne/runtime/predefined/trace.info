@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081855346303:jetbrains.mps.baseLanguage.structure.BreakStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <root nodeRef="r:af7888db-bff0-42b8-bffc-ed0e3a5d03d1(ActOne.runtime.predefined)/2078060019705558968">
+    <file name="STRING.java">
+      <node id="2078060019705572584" at="12,41,13,17" concept="12" />
+      <node id="2078060019705572626" at="15,59,16,24" concept="12" />
+      <node id="2078060019705572677" at="18,54,19,29" concept="12" />
+      <node id="2078060019707173920" at="23,36,24,0" concept="9" />
+      <node id="2078060019707177560" at="24,0,25,52" concept="8" />
+      <node id="2078060019707175662" at="26,66,27,20" concept="7" />
+      <node id="2078060019707175040" at="28,7,29,0" concept="9" />
+      <node id="2078060019707179152" at="29,0,30,35" concept="8" />
+      <node id="2078060019707179941" at="30,35,31,32" concept="6" />
+      <node id="2078060019707182038" at="31,32,32,0" concept="9" />
+      <node id="2078060019712824538" at="32,0,33,65" concept="8" />
+      <node id="5944539236823600494" at="33,65,34,0" concept="9" />
+      <node id="2078060019712830234" at="34,0,35,0" concept="9" />
+      <node id="5944539236823621229" at="36,41,37,40" concept="6" />
+      <node id="5944539236823626147" at="37,40,38,41" concept="6" />
+      <node id="2078060019707198791" at="39,82,40,69" concept="3" />
+      <node id="5944539236823824204" at="42,47,43,0" concept="9" />
+      <node id="5944539236823705107" at="43,0,44,40" concept="6" />
+      <node id="5944539236823715630" at="44,40,45,41" concept="6" />
+      <node id="5944539236823733360" at="45,41,46,40" concept="6" />
+      <node id="5944539236823739806" at="46,40,47,0" concept="9" />
+      <node id="2078060019707296102" at="48,111,49,49" concept="6" />
+      <node id="2078060019707295919" at="49,49,50,41" concept="6" />
+      <node id="2078060019707335024" at="50,41,51,38" concept="6" />
+      <node id="2078060019707382751" at="51,38,52,70" concept="3" />
+      <node id="2078060019707174367" at="54,7,55,0" concept="9" />
+      <node id="5944539236813295279" at="55,0,56,51" concept="8" />
+      <node id="5944539236823509032" at="57,30,58,45" concept="7" />
+      <node id="5944539236813315802" at="59,7,60,18" concept="7" />
+      <node id="2078060019707227660" at="67,62,68,27" concept="7" />
+      <node id="2078060019707129197" at="72,0,73,0" concept="10" trace="oper_Length" />
+      <node id="2078060019707138641" at="73,0,74,0" concept="10" trace="oper_Append" />
+      <node id="2078060019707144770" at="74,0,75,0" concept="10" trace="oper_Slice" />
+      <node id="2078060019707157569" at="76,48,77,45" concept="7" />
+      <node id="2078060019707163800" at="80,57,81,47" concept="7" />
+      <node id="2078060019707165509" at="84,79,85,52" concept="7" />
+      <node id="2078060019705576880" at="88,35,89,48" concept="3" />
+      <node id="2078060019705572543" at="12,0,15,0" concept="2" trace="String#(Ljava/lang/String;)V" />
+      <node id="2078060019705572585" at="15,0,18,0" concept="2" trace="String#(LActOne/runtime/model/ITerm/Kind;Ljava/lang/String;)V" />
+      <node id="2078060019705572627" at="18,0,21,0" concept="2" trace="String#(LActOne/runtime/model/Operator;null)V" />
+      <node id="2078060019707175660" at="25,52,28,7" concept="4" />
+      <node id="5944539236823631999" at="38,41,41,9" concept="4" />
+      <node id="5944539236813280607" at="56,51,59,7" concept="4" />
+      <node id="2078060019707227658" at="67,0,70,0" concept="11" trace="stringValueTerm#(Ljava/lang/String;)LActOne/runtime/predefined/STRING/String;" />
+      <node id="2078060019707148223" at="76,0,79,0" concept="11" trace="Length#(LActOne/runtime/predefined/STRING/String;)LActOne/runtime/predefined/INTEGER/Int;" />
+      <node id="2078060019707162091" at="80,0,83,0" concept="11" trace="Append#(LActOne/runtime/predefined/STRING/String;LActOne/runtime/predefined/STRING/String;)LActOne/runtime/predefined/STRING/String;" />
+      <node id="2078060019707165507" at="84,0,87,0" concept="11" trace="Slice#(LActOne/runtime/predefined/STRING/String;LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/STRING/String;" />
+      <node id="2078060019705576878" at="88,0,91,0" concept="11" trace="initAxioms#()V" />
+      <node id="5944539236823742898" at="47,0,53,9" concept="4" />
+      <node id="2078060019707183785" at="35,0,54,7" concept="4" />
+      <node id="2078060019705574318" at="22,0,62,0" concept="5" trace="reduceIteration#()LActOne/runtime/model/ITerm;" />
+      <scope id="2078060019705572582" at="12,41,13,17" />
+      <scope id="2078060019705572623" at="15,59,16,24" />
+      <scope id="2078060019705572674" at="18,54,19,29" />
+      <scope id="2078060019707175661" at="26,66,27,20" />
+      <scope id="5944539236823632001" at="39,82,40,69" />
+      <scope id="5944539236813280608" at="57,30,58,45" />
+      <scope id="2078060019707227659" at="67,62,68,27" />
+      <scope id="2078060019707148224" at="76,48,77,45" />
+      <scope id="2078060019707162094" at="80,57,81,47" />
+      <scope id="2078060019707165508" at="84,79,85,52" />
+      <scope id="2078060019705576879" at="88,35,89,48" />
+      <scope id="2078060019705572543" at="12,0,15,0">
+        <var name="val" id="2078060019705572580" />
+      </scope>
+      <scope id="2078060019705572585" at="15,0,18,0">
+        <var name="kind" id="2078060019705572619" />
+        <var name="name" id="2078060019705572621" />
+      </scope>
+      <scope id="2078060019705572627" at="18,0,21,0">
+        <var name="operator" id="2078060019705572669" />
+        <var name="terms" id="2078060019705572671" />
+      </scope>
+      <scope id="2078060019707227658" at="67,0,70,0">
+        <var name="val" id="2078060019707227666" />
+      </scope>
+      <scope id="2078060019707148223" at="76,0,79,0">
+        <var name="str" id="2078060019707152876" />
+      </scope>
+      <scope id="2078060019707162091" at="80,0,83,0">
+        <var name="str1" id="2078060019707163248" />
+        <var name="str2" id="2078060019707163522" />
+      </scope>
+      <scope id="2078060019707165507" at="84,0,87,0">
+        <var name="begin" id="2078060019707165518" />
+        <var name="end" id="2078060019707170835" />
+        <var name="str1" id="2078060019707165516" />
+      </scope>
+      <scope id="2078060019705576878" at="88,0,91,0" />
+      <scope id="5944539236823742900" at="48,111,52,70">
+        <var name="beginIndex" id="2078060019707295922" />
+        <var name="endIndex" id="2078060019707335025" />
+        <var name="str" id="2078060019707296105" />
+      </scope>
+      <scope id="2078060019707195667" at="36,41,41,9">
+        <var name="first" id="5944539236823621230" />
+        <var name="second" id="5944539236823626148" />
+      </scope>
+      <scope id="2078060019707261559" at="42,47,53,9">
+        <var name="first" id="5944539236823705108" />
+        <var name="second" id="5944539236823715631" />
+        <var name="third" id="5944539236823733361" />
+      </scope>
+      <scope id="2078060019705574324" at="23,36,60,18">
+        <var name="root" id="2078060019707179942" />
+      </scope>
+      <scope id="2078060019705574318" at="22,0,62,0" />
+      <unit id="2078060019705570854" at="10,0,63,0" name="ActOne.runtime.predefined.STRING$String" />
+      <unit id="2078060019705558968" at="8,0,94,0" name="ActOne.runtime.predefined.STRING" />
+    </file>
+  </root>
+  <root nodeRef="r:af7888db-bff0-42b8-bffc-ed0e3a5d03d1(ActOne.runtime.predefined)/2436080066050817005">
+    <file name="ANY.java">
+      <node id="2436080066050852688" at="11,51,12,29" concept="12" />
+      <node id="2436080066050852724" at="15,46,16,24" concept="12" />
+      <node id="2436080066050852644" at="11,0,14,0" concept="2" trace="Any#(LActOne/runtime/model/Operator;null)V" />
+      <node id="2436080066050852689" at="15,0,18,0" concept="2" trace="Any#(LActOne/runtime/model/ITerm/Kind;Ljava/lang/String;)V" />
+      <scope id="2436080066050852685" at="11,51,12,29" />
+      <scope id="2436080066050852721" at="15,46,16,24" />
+      <scope id="2436080066050852644" at="11,0,14,0">
+        <var name="operator" id="2436080066050852680" />
+        <var name="terms" id="2436080066050852682" />
+      </scope>
+      <scope id="2436080066050852689" at="15,0,18,0">
+        <var name="kind" id="2436080066050852717" />
+        <var name="name" id="2436080066050852719" />
+      </scope>
+      <unit id="2436080066050851824" at="9,0,19,0" name="ActOne.runtime.predefined.ANY$Any" />
+      <unit id="2436080066050817005" at="8,0,20,0" name="ActOne.runtime.predefined.ANY" />
+    </file>
+  </root>
+  <root nodeRef="r:af7888db-bff0-42b8-bffc-ed0e3a5d03d1(ActOne.runtime.predefined)/4779260070299271623">
+    <file name="INTEGER.java">
+      <node id="4779260070301191208" at="15,25,16,17" concept="12" />
+      <node id="4779260070299282496" at="18,46,19,24" concept="12" />
+      <node id="4779260070299282541" at="21,51,22,29" concept="12" />
+      <node id="932415915394154301" at="25,36,26,0" concept="9" />
+      <node id="932415915394172619" at="26,0,27,52" concept="8" />
+      <node id="932415915394168751" at="28,66,29,20" concept="7" />
+      <node id="932415915394154305" at="30,7,31,0" concept="9" />
+      <node id="932415915394198481" at="31,0,32,35" concept="8" />
+      <node id="932415915394180075" at="32,35,33,32" concept="6" />
+      <node id="932415915394203498" at="33,32,34,0" concept="9" />
+      <node id="2078060019712837614" at="36,15,37,72" concept="8" />
+      <node id="5944539236823576424" at="38,52,39,44" concept="6" />
+      <node id="2078060019714504095" at="40,50,41,60" concept="3" />
+      <node id="2078060019714547243" at="43,11,44,16" concept="1" />
+      <node id="1509905087550432979" at="45,15,46,0" concept="9" />
+      <node id="932415915394208684" at="46,0,47,31" concept="8" />
+      <node id="932415915394208687" at="47,31,48,46" concept="6" />
+      <node id="932415915394208696" at="48,46,49,47" concept="6" />
+      <node id="5944539236804586557" at="49,47,50,0" concept="9" />
+      <node id="5944539236805007109" at="50,0,51,58" concept="8" />
+      <node id="5944539236804622136" at="52,86,53,18" concept="1" />
+      <node id="932415915394208705" at="54,11,55,0" concept="9" />
+      <node id="932415915394278932" at="56,42,57,70" concept="3" />
+      <node id="932415915405740090" at="58,49,59,70" concept="3" />
+      <node id="932415915405749188" at="60,49,61,70" concept="3" />
+      <node id="932415915405765206" at="62,49,63,70" concept="3" />
+      <node id="932415915405803603" at="64,49,65,85" concept="3" />
+      <node id="932415915405825746" at="66,49,67,70" concept="3" />
+      <node id="932415915394208750" at="68,11,69,0" concept="9" />
+      <node id="1509905087549288023" at="69,0,70,62" concept="8" />
+      <node id="1509905087549284513" at="70,62,71,0" concept="9" />
+      <node id="932415915394208751" at="71,0,72,16" concept="1" />
+      <node id="932415915420749764" at="73,16,74,16" concept="1" />
+      <node id="5944539236813135099" at="75,7,76,0" concept="9" />
+      <node id="5944539236813159342" at="76,0,77,51" concept="8" />
+      <node id="5944539236823491682" at="78,30,79,45" concept="7" />
+      <node id="5944539236813222006" at="80,7,81,18" concept="7" />
+      <node id="4779260070301219835" at="90,43,91,24" concept="7" />
+      <node id="4779260070299288281" at="94,0,95,0" concept="10" trace="oper_Add" />
+      <node id="932415915405645319" at="95,0,96,0" concept="10" trace="oper_Sub" />
+      <node id="932415915405650334" at="96,0,97,0" concept="10" trace="oper_Mul" />
+      <node id="932415915405655392" at="97,0,98,0" concept="10" trace="oper_Div" />
+      <node id="932415915405660436" at="98,0,99,0" concept="10" trace="oper_Pow" />
+      <node id="932415915405717789" at="99,0,100,0" concept="10" trace="oper_Mod" />
+      <node id="1509905087549226687" at="100,0,101,0" concept="10" trace="oper_GR" />
+      <node id="1509905087549234987" at="101,0,102,0" concept="10" trace="oper_EQ_GR" />
+      <node id="4779260070299292143" at="103,46,104,42" concept="7" />
+      <node id="932415915405677467" at="107,46,108,42" concept="7" />
+      <node id="932415915405687855" at="111,46,112,42" concept="7" />
+      <node id="932415915405696991" at="115,46,116,42" concept="7" />
+      <node id="932415915405711339" at="119,46,120,42" concept="7" />
+      <node id="932415915405723747" at="123,46,124,42" concept="7" />
+      <node id="1509905087549252097" at="127,54,128,50" concept="7" />
+      <node id="1509905087549259923" at="131,57,132,53" concept="7" />
+      <node id="4779260070299686143" at="138,35,139,49" concept="3" />
+      <node id="4779260070301191202" at="15,0,18,0" concept="2" trace="Int#(I)V" />
+      <node id="4779260070299282461" at="18,0,21,0" concept="2" trace="Int#(LActOne/runtime/model/ITerm/Kind;Ljava/lang/String;)V" />
+      <node id="4779260070299282497" at="21,0,24,0" concept="2" trace="Int#(LActOne/runtime/model/Operator;null)V" />
+      <node id="932415915394168749" at="27,52,30,7" concept="4" />
+      <node id="5944539236823534654" at="39,44,42,13" concept="4" />
+      <node id="5944539236804593135" at="51,58,54,11" concept="4" />
+      <node id="5944539236813140711" at="77,51,80,7" concept="4" />
+      <node id="4779260070301218533" at="90,0,93,0" concept="11" trace="natValueTerm#(I)LActOne/runtime/predefined/INTEGER/Int;" />
+      <node id="4779260070299292141" at="103,0,106,0" concept="11" trace="ADD#(LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/INTEGER/Int;" />
+      <node id="932415915405677465" at="107,0,110,0" concept="11" trace="SUB#(LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/INTEGER/Int;" />
+      <node id="932415915405687853" at="111,0,114,0" concept="11" trace="MUL#(LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/INTEGER/Int;" />
+      <node id="932415915405696989" at="115,0,118,0" concept="11" trace="DIV#(LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/INTEGER/Int;" />
+      <node id="932415915405711337" at="119,0,122,0" concept="11" trace="POW#(LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/INTEGER/Int;" />
+      <node id="932415915405723745" at="123,0,126,0" concept="11" trace="MOD#(LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/INTEGER/Int;" />
+      <node id="1509905087549252095" at="127,0,130,0" concept="11" trace="GR#(LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="1509905087549259921" at="131,0,134,0" concept="11" trace="EQ_GR#(LActOne/runtime/predefined/INTEGER/Int;LActOne/runtime/predefined/INTEGER/Int;)LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="4779260070299686141" at="138,0,141,0" concept="11" trace="initAxioms#()V" />
+      <node id="2078060019712783994" at="37,72,43,11" concept="4" />
+      <node id="932415915394208706" at="55,0,68,11" concept="4" />
+      <node id="932415915394208647" at="34,0,75,7" concept="13" />
+      <node id="4779260070299282542" at="24,0,83,0" concept="5" trace="reduceIteration#()LActOne/runtime/model/ITerm;" />
+      <scope id="4779260070301191206" at="15,25,16,17" />
+      <scope id="4779260070299282493" at="18,46,19,24" />
+      <scope id="4779260070299282538" at="21,51,22,29" />
+      <scope id="932415915394168750" at="28,66,29,20" />
+      <scope id="5944539236823534656" at="40,50,41,60" />
+      <scope id="5944539236804593137" at="52,86,53,18" />
+      <scope id="932415915394208707" at="56,42,57,70" />
+      <scope id="932415915405732577" at="58,49,59,70" />
+      <scope id="932415915405744126" at="60,49,61,70" />
+      <scope id="932415915405752706" at="62,49,63,70" />
+      <scope id="932415915405768757" at="64,49,65,85" />
+      <scope id="932415915405825745" at="66,49,67,70" />
+      <scope id="932415915394208810" at="73,16,74,16" />
+      <scope id="5944539236813140712" at="78,30,79,45" />
+      <scope id="4779260070301218536" at="90,43,91,24" />
+      <scope id="4779260070299292142" at="103,46,104,42" />
+      <scope id="932415915405677466" at="107,46,108,42" />
+      <scope id="932415915405687854" at="111,46,112,42" />
+      <scope id="932415915405696990" at="115,46,116,42" />
+      <scope id="932415915405711338" at="119,46,120,42" />
+      <scope id="932415915405723746" at="123,46,124,42" />
+      <scope id="1509905087549252096" at="127,54,128,50" />
+      <scope id="1509905087549259922" at="131,57,132,53" />
+      <scope id="4779260070299686142" at="138,35,139,49" />
+      <scope id="4779260070301191202" at="15,0,18,0">
+        <var name="val" id="4779260070301191209" />
+      </scope>
+      <scope id="4779260070299282461" at="18,0,21,0">
+        <var name="kind" id="4779260070299282489" />
+        <var name="name" id="4779260070299282491" />
+      </scope>
+      <scope id="4779260070299282497" at="21,0,24,0">
+        <var name="operator" id="4779260070299282533" />
+        <var name="terms" id="4779260070299282535" />
+      </scope>
+      <scope id="4779260070301218533" at="90,0,93,0">
+        <var name="val" id="4779260070301219539" />
+      </scope>
+      <scope id="4779260070299292141" at="103,0,106,0">
+        <var name="left" id="4779260070299292150" />
+        <var name="right" id="4779260070299292152" />
+      </scope>
+      <scope id="932415915405677465" at="107,0,110,0">
+        <var name="left" id="932415915405677475" />
+        <var name="right" id="932415915405677477" />
+      </scope>
+      <scope id="932415915405687853" at="111,0,114,0">
+        <var name="left" id="932415915405687862" />
+        <var name="right" id="932415915405687864" />
+      </scope>
+      <scope id="932415915405696989" at="115,0,118,0">
+        <var name="left" id="932415915405696998" />
+        <var name="right" id="932415915405697000" />
+      </scope>
+      <scope id="932415915405711337" at="119,0,122,0">
+        <var name="left" id="932415915405711346" />
+        <var name="right" id="932415915405711348" />
+      </scope>
+      <scope id="932415915405723745" at="123,0,126,0">
+        <var name="left" id="932415915405723754" />
+        <var name="right" id="932415915405723756" />
+      </scope>
+      <scope id="1509905087549252095" at="127,0,130,0">
+        <var name="left" id="1509905087549252104" />
+        <var name="right" id="1509905087549252106" />
+      </scope>
+      <scope id="1509905087549259921" at="131,0,134,0">
+        <var name="left" id="1509905087549259931" />
+        <var name="right" id="1509905087549259933" />
+      </scope>
+      <scope id="4779260070299686141" at="138,0,141,0" />
+      <scope id="2078060019712783996" at="38,52,42,13">
+        <var name="child" id="5944539236823576425" />
+      </scope>
+      <scope id="2078060019712778457" at="36,15,44,16" />
+      <scope id="932415915394208682" at="45,15,72,16">
+        <var name="leftChild" id="932415915394208688" />
+        <var name="rightChild" id="932415915394208697" />
+      </scope>
+      <scope id="4779260070299282594" at="25,36,81,18">
+        <var name="root" id="932415915394180076" />
+      </scope>
+      <scope id="4779260070299282542" at="24,0,83,0" />
+      <unit id="4779260070299280808" at="9,0,85,0" name="ActOne.runtime.predefined.INTEGER$Int" />
+      <unit id="4779260070299271623" at="8,0,146,0" name="ActOne.runtime.predefined.INTEGER" />
+    </file>
+  </root>
+  <root nodeRef="r:af7888db-bff0-42b8-bffc-ed0e3a5d03d1(ActOne.runtime.predefined)/7054597004572509574">
+    <file name="BOOLEAN.java">
+      <node id="694206664663639965" at="12,52,13,29" concept="12" />
+      <node id="694206664663640001" at="15,47,16,24" concept="12" />
+      <node id="8786066445838274087" at="19,46,20,88" concept="7" />
+      <node id="8786066445838709551" at="23,35,24,57" concept="7" />
+      <node id="8786066445839377833" at="27,34,28,39" concept="7" />
+      <node id="4779260070243742384" at="32,36,33,0" concept="9" />
+      <node id="4779260070243760284" at="33,0,34,52" concept="8" />
+      <node id="4779260070243747615" at="35,66,36,20" concept="7" />
+      <node id="4779260070243785710" at="37,7,38,0" concept="9" />
+      <node id="4779260070243810800" at="38,0,39,35" concept="8" />
+      <node id="4779260070243791986" at="39,35,40,32" concept="6" />
+      <node id="5944539236822578516" at="40,32,41,0" concept="9" />
+      <node id="5944539236822710073" at="43,18,44,16" concept="1" />
+      <node id="5944539236822710148" at="45,19,46,16" concept="1" />
+      <node id="5944539236822710331" at="47,17,48,42" concept="6" />
+      <node id="5944539236822713872" at="49,36,50,34" concept="3" />
+      <node id="5944539236822715409" at="51,11,52,16" concept="1" />
+      <node id="5944539236822716457" at="54,11,55,48" concept="6" />
+      <node id="5944539236822719219" at="55,48,56,49" concept="6" />
+      <node id="5944539236822722407" at="57,70,58,54" concept="3" />
+      <node id="5944539236822735723" at="60,11,61,16" concept="1" />
+      <node id="5944539236822743743" at="63,11,64,48" concept="6" />
+      <node id="5944539236822746754" at="64,48,65,49" concept="6" />
+      <node id="5944539236822751124" at="66,70,67,54" concept="3" />
+      <node id="5944539236822743626" at="69,11,70,16" concept="1" />
+      <node id="5944539236822794370" at="72,11,73,48" concept="6" />
+      <node id="5944539236822794379" at="73,48,74,49" concept="6" />
+      <node id="5944539236822794388" at="74,49,75,48" concept="6" />
+      <node id="5944539236822794405" at="76,42,77,61" concept="3" />
+      <node id="5944539236822794415" at="79,11,80,16" concept="1" />
+      <node id="5944539236822860045" at="82,11,83,48" concept="6" />
+      <node id="5944539236822863932" at="83,48,84,49" concept="6" />
+      <node id="5944539236822879655" at="84,49,85,0" concept="9" />
+      <node id="5944539236822892534" at="86,47,87,28" concept="3" />
+      <node id="5944539236822858272" at="88,20,89,49" concept="8" />
+      <node id="5944539236822858274" at="89,49,90,81" concept="6" />
+      <node id="5944539236822858282" at="90,81,91,84" concept="6" />
+      <node id="5944539236822907230" at="91,84,92,0" concept="9" />
+      <node id="5944539236822858291" at="92,0,93,95" concept="8" />
+      <node id="5944539236822858295" at="94,62,95,31" concept="3" />
+      <node id="5944539236822858305" at="97,13,98,50" concept="8" />
+      <node id="5944539236822932718" at="99,11,100,16" concept="1" />
+      <node id="1509905087552709588" at="102,11,103,48" concept="6" />
+      <node id="1509905087552730983" at="103,48,104,49" concept="6" />
+      <node id="1509905087552740079" at="104,49,105,0" concept="9" />
+      <node id="1509905087552759022" at="106,88,107,95" concept="3" />
+      <node id="1509905087552752011" at="109,11,110,16" concept="1" />
+      <node id="1509905087552799534" at="112,11,113,48" concept="6" />
+      <node id="1509905087552803995" at="113,48,114,49" concept="6" />
+      <node id="1509905087552808784" at="115,88,116,96" concept="3" />
+      <node id="1509905087552799399" at="118,11,119,16" concept="1" />
+      <node id="5944539236822941679" at="120,16,121,16" concept="1" />
+      <node id="5944539236822941737" at="122,7,123,0" concept="9" />
+      <node id="5944539236822955038" at="123,0,124,51" concept="8" />
+      <node id="5944539236823443477" at="125,30,126,45" concept="7" />
+      <node id="5944539236822970564" at="127,7,128,18" concept="7" />
+      <node id="4779260070243963940" at="128,18,129,0" concept="9" />
+      <node id="5944539236822627325" at="147,29,148,23" concept="7" />
+      <node id="5944539236822627332" at="150,30,151,24" concept="7" />
+      <node id="5944539236822627339" at="153,28,154,22" concept="7" />
+      <node id="5944539236822627346" at="156,28,157,22" concept="7" />
+      <node id="5944539236822627353" at="159,27,160,21" concept="7" />
+      <node id="5944539236822627360" at="162,30,163,24" concept="7" />
+      <node id="5944539236822627367" at="165,27,166,21" concept="7" />
+      <node id="1509905087552692093" at="168,35,169,31" concept="7" />
+      <node id="1509905087552694117" at="171,38,172,40" concept="7" />
+      <node id="5944539236822627372" at="173,5,174,22" concept="7" />
+      <node id="3676950665577219064" at="180,0,181,0" concept="10" trace="oper_True" />
+      <node id="3676950665577223616" at="181,0,182,0" concept="10" trace="oper_False" />
+      <node id="3546352009729506421" at="182,0,183,0" concept="10" trace="oper_Not" />
+      <node id="3676950665577225261" at="183,0,184,0" concept="10" trace="oper_and" />
+      <node id="3676950665577226915" at="184,0,185,0" concept="10" trace="oper_or" />
+      <node id="3676950665577231837" at="185,0,186,0" concept="10" trace="oper_equal" />
+      <node id="3676950665577233509" at="186,0,187,0" concept="10" trace="oper_if" />
+      <node id="3676950665577244721" at="188,29,189,31" concept="7" />
+      <node id="3676950665577249504" at="192,30,193,32" concept="7" />
+      <node id="3546352009729530914" at="196,37,197,36" concept="7" />
+      <node id="3676950665577261577" at="200,49,201,43" concept="7" />
+      <node id="3676950665577267466" at="204,48,205,42" concept="7" />
+      <node id="3676950665577271645" at="208,53,209,45" concept="7" />
+      <node id="3676950665577276544" at="212,73,213,50" concept="7" />
+      <node id="3676950665577295579" at="216,35,217,49" concept="3" />
+      <node id="694206664663639921" at="12,0,15,0" concept="2" trace="Bool#(LActOne/runtime/model/Operator;null)V" />
+      <node id="694206664663639966" at="15,0,18,0" concept="2" trace="Bool#(LActOne/runtime/model/ITerm/Kind;Ljava/lang/String;)V" />
+      <node id="8786066445838233867" at="19,0,22,0" concept="5" trace="isGroundTerm#(LActOne/runtime/model/ITerm;)Z" />
+      <node id="8786066445838709549" at="23,0,26,0" concept="5" trace="b#(LActOne/runtime/model/ITerm;)Z" />
+      <node id="8786066445839377831" at="27,0,30,0" concept="5" trace="t#(Z)LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="4779260070243747613" at="34,52,37,7" concept="4" />
+      <node id="5944539236822713870" at="48,42,51,11" concept="4" />
+      <node id="5944539236822726768" at="56,49,59,13" concept="4" />
+      <node id="5944539236822751122" at="65,49,68,13" concept="4" />
+      <node id="5944539236822794398" at="75,48,78,13" concept="4" />
+      <node id="5944539236822858293" at="93,95,96,15" concept="4" />
+      <node id="1509905087552754824" at="105,0,108,13" concept="4" />
+      <node id="1509905087552808782" at="114,49,117,13" concept="4" />
+      <node id="5944539236822962736" at="124,51,127,7" concept="4" />
+      <node id="5944539236822627323" at="146,48,149,5" concept="4" />
+      <node id="5944539236822627330" at="149,5,152,5" concept="4" />
+      <node id="5944539236822627337" at="152,5,155,5" concept="4" />
+      <node id="5944539236822627344" at="155,5,158,5" concept="4" />
+      <node id="5944539236822627351" at="158,5,161,5" concept="4" />
+      <node id="5944539236822627358" at="161,5,164,5" concept="4" />
+      <node id="5944539236822627365" at="164,5,167,5" concept="4" />
+      <node id="1509905087552682490" at="167,5,170,5" concept="4" />
+      <node id="1509905087552694115" at="170,5,173,5" concept="4" />
+      <node id="3676950665577243063" at="188,0,191,0" concept="11" trace="True#()LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="3676950665577249502" at="192,0,195,0" concept="11" trace="False#()LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="3546352009729530912" at="196,0,199,0" concept="11" trace="Not#(LActOne/runtime/predefined/BOOLEAN/Bool;)LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="3676950665577256610" at="200,0,203,0" concept="11" trace="And#(LActOne/runtime/predefined/BOOLEAN/Bool;LActOne/runtime/predefined/BOOLEAN/Bool;)LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="3676950665577267464" at="204,0,207,0" concept="11" trace="Or#(LActOne/runtime/predefined/BOOLEAN/Bool;LActOne/runtime/predefined/BOOLEAN/Bool;)LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="3676950665577271643" at="208,0,211,0" concept="11" trace="Equal#(LActOne/runtime/model/ITerm;LActOne/runtime/model/ITerm;)LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="3676950665577276542" at="212,0,215,0" concept="11" trace="If_Then_Else#(LActOne/runtime/predefined/BOOLEAN/Bool;LActOne/runtime/model/ITerm;LActOne/runtime/model/ITerm;)LActOne/runtime/predefined/BOOLEAN/Bool;" />
+      <node id="3676950665577293486" at="216,0,219,0" concept="11" trace="initAxioms#()V" />
+      <node id="5944539236822754334" at="53,17,60,11" concept="0" />
+      <node id="5944539236822771999" at="62,16,69,11" concept="0" />
+      <node id="1509905087552786552" at="111,35,118,11" concept="0" />
+      <node id="5944539236822833800" at="71,16,79,11" concept="0" />
+      <node id="1509905087552740078" at="101,26,109,11" concept="0" />
+      <node id="5944539236822893134" at="88,18,97,13" concept="0" />
+      <node id="5944539236822881223" at="85,0,97,13" concept="4" />
+      <node id="5944539236822858269" at="81,19,99,11" concept="0" />
+      <node id="5944539236822627320" at="146,0,176,0" concept="11" trace="oper_code#(LActOne/runtime/model/Operator;)LActOne/runtime/predefined/BOOLEAN/OPER;" />
+      <node id="5944539236822587841" at="41,0,122,7" concept="13" />
+      <node id="4779260070243701274" at="31,0,131,0" concept="5" trace="reduceIteration#()LActOne/runtime/model/ITerm;" />
+      <scope id="694206664663639962" at="12,52,13,29" />
+      <scope id="694206664663639998" at="15,47,16,24" />
+      <scope id="8786066445838233869" at="19,46,20,88" />
+      <scope id="8786066445838709550" at="23,35,24,57" />
+      <scope id="8786066445839377832" at="27,34,28,39" />
+      <scope id="4779260070243747614" at="35,66,36,20" />
+      <scope id="5944539236822641010" at="43,18,44,16" />
+      <scope id="5944539236822651393" at="45,19,46,16" />
+      <scope id="5944539236822713871" at="49,36,50,34" />
+      <scope id="5944539236822726770" at="57,70,58,54" />
+      <scope id="5944539236822751123" at="66,70,67,54" />
+      <scope id="5944539236822794399" at="76,42,77,61" />
+      <scope id="5944539236822881225" at="86,47,87,28" />
+      <scope id="5944539236822858294" at="94,62,95,31" />
+      <scope id="1509905087552754825" at="106,88,107,95" />
+      <scope id="1509905087552808783" at="115,88,116,96" />
+      <scope id="5944539236822705609" at="120,16,121,16" />
+      <scope id="5944539236822962737" at="125,30,126,45" />
+      <scope id="5944539236822627324" at="147,29,148,23" />
+      <scope id="5944539236822627331" at="150,30,151,24" />
+      <scope id="5944539236822627338" at="153,28,154,22" />
+      <scope id="5944539236822627345" at="156,28,157,22" />
+      <scope id="5944539236822627352" at="159,27,160,21" />
+      <scope id="5944539236822627359" at="162,30,163,24" />
+      <scope id="5944539236822627366" at="165,27,166,21" />
+      <scope id="1509905087552682492" at="168,35,169,31" />
+      <scope id="1509905087552694116" at="171,38,172,40" />
+      <scope id="3676950665577243066" at="188,29,189,31" />
+      <scope id="3676950665577249503" at="192,30,193,32" />
+      <scope id="3546352009729530913" at="196,37,197,36" />
+      <scope id="3676950665577256613" at="200,49,201,43" />
+      <scope id="3676950665577267465" at="204,48,205,42" />
+      <scope id="3676950665577271644" at="208,53,209,45" />
+      <scope id="3676950665577276543" at="212,73,213,50" />
+      <scope id="3676950665577293489" at="216,35,217,49" />
+      <scope id="694206664663639921" at="12,0,15,0">
+        <var name="operator" id="694206664663639957" />
+        <var name="terms" id="694206664663639959" />
+      </scope>
+      <scope id="694206664663639966" at="15,0,18,0">
+        <var name="kind" id="694206664663639994" />
+        <var name="name" id="694206664663639996" />
+      </scope>
+      <scope id="8786066445838233867" at="19,0,22,0">
+        <var name="term" id="8786066445838247200" />
+      </scope>
+      <scope id="8786066445838709549" at="23,0,26,0">
+        <var name="term" id="8786066445838709568" />
+      </scope>
+      <scope id="8786066445839377831" at="27,0,30,0">
+        <var name="bool" id="8786066445839377844" />
+      </scope>
+      <scope id="3676950665577243063" at="188,0,191,0" />
+      <scope id="3676950665577249502" at="192,0,195,0" />
+      <scope id="3546352009729530912" at="196,0,199,0">
+        <var name="term" id="3546352009729541381" />
+      </scope>
+      <scope id="3676950665577256610" at="200,0,203,0">
+        <var name="left" id="3676950665577258334" />
+        <var name="right" id="3676950665577259824" />
+      </scope>
+      <scope id="3676950665577267464" at="204,0,207,0">
+        <var name="left" id="3676950665577267473" />
+        <var name="right" id="3676950665577267475" />
+      </scope>
+      <scope id="3676950665577271643" at="208,0,211,0">
+        <var name="left" id="3676950665577271652" />
+        <var name="right" id="3676950665577271654" />
+      </scope>
+      <scope id="3676950665577276542" at="212,0,215,0">
+        <var name="_case" id="3676950665577279303" />
+        <var name="_else" id="3676950665577276553" />
+        <var name="_then" id="3676950665577276551" />
+      </scope>
+      <scope id="3676950665577293486" at="216,0,219,0" />
+      <scope id="5944539236822661211" at="47,17,52,16">
+        <var name="child" id="5944539236822710332" />
+      </scope>
+      <scope id="5944539236822754336" at="54,11,59,13">
+        <var name="leftChild" id="5944539236822716458" />
+        <var name="rightChild" id="5944539236822719220" />
+      </scope>
+      <scope id="5944539236822772001" at="63,11,68,13">
+        <var name="leftChild" id="5944539236822743744" />
+        <var name="rightChild" id="5944539236822746755" />
+      </scope>
+      <scope id="1509905087552786553" at="112,11,117,13">
+        <var name="leftChild" id="1509905087552799535" />
+        <var name="rightChild" id="1509905087552803996" />
+      </scope>
+      <scope id="5944539236822833802" at="72,11,78,13">
+        <var name="firstBorn" id="5944539236822794371" />
+        <var name="secondBorn" id="5944539236822794380" />
+        <var name="thirdBorn" id="5944539236822794389" />
+      </scope>
+      <scope id="1509905087552740080" at="102,11,108,13">
+        <var name="leftChild" id="1509905087552709589" />
+        <var name="rightChild" id="1509905087552730984" />
+      </scope>
+      <scope id="5944539236822670114" at="53,17,61,16" />
+      <scope id="5944539236822675566" at="62,16,70,16" />
+      <scope id="5944539236822893135" at="88,20,96,15">
+        <var name="leftIsReducable" id="5944539236822858275" />
+        <var name="rightIsReducable" id="5944539236822858283" />
+      </scope>
+      <scope id="1509905087552713822" at="111,35,119,16" />
+      <scope id="5944539236822794365" at="71,16,80,16" />
+      <scope id="1509905087552697734" at="101,26,110,16" />
+      <scope id="5944539236822858270" at="82,11,98,50">
+        <var name="leftChild" id="5944539236822860046" />
+        <var name="rightChild" id="5944539236822863933" />
+      </scope>
+      <scope id="5944539236822684515" at="81,19,100,16" />
+      <scope id="5944539236822627322" at="146,48,174,22" />
+      <scope id="5944539236822627320" at="146,0,176,0">
+        <var name="input" id="5944539236822627376" />
+      </scope>
+      <scope id="4779260070243701326" at="32,36,129,0">
+        <var name="root" id="4779260070243791987" />
+      </scope>
+      <scope id="4779260070243701274" at="31,0,131,0" />
+      <unit id="5944539236822289538" at="133,0,145,0" name="ActOne.runtime.predefined.BOOLEAN$OPER" />
+      <unit id="694206664663639751" at="10,0,132,0" name="ActOne.runtime.predefined.BOOLEAN$Bool" />
+      <unit id="7054597004572509574" at="8,0,221,0" name="ActOne.runtime.predefined.BOOLEAN" />
+    </file>
+  </root>
+</debug-info>
+
